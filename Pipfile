@@ -8,7 +8,6 @@ verify_ssl = true
 [packages]
 python-telegram-bot = "*"
 black = "==19.3b0"
-urllib2 = "*"
 
 [requires]
 python_version = "3.7"
