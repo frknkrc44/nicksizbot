@@ -19,24 +19,12 @@ def restricted(func):
     @wraps(func)
     def wrapped(update: Update, context: CallbackContext, *args, **kwargs):
         user_id = update.message.from_user.id
-        print()
-        print()
-        print()
-        print()
         objt = context.bot.get_chat_administrators(update.message.chat.id)
         for attr in objt:
             type(attr)
             # print(attr, getattr(objt, attr))
             print(attr)
             print("---------------------------------")
-
-        print()
-        print()
-        print()
-        print()
-        print()
-        print()
-
         if user_id not in context.bot.get_chat_administrators(update.message.chat.id):
             print()
             print("Unauthorized access denied for {}.".format(user_id))
