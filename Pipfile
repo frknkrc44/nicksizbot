@@ -5,10 +5,15 @@ verify_ssl = true
 
 [dev-packages]
 pylint = "*"
+black = "*"
 
 [packages]
 python-telegram-bot = "*"
-black = "==19.3b0"
+requests = "*"
+sqlalchemy = "*"
 
 [requires]
 python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true

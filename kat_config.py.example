@@ -1,0 +1,7 @@
+# Telegram API Token
+TOKEN = ""
+
+# Owner ID
+Owner = ""
+
+# SQL Connection and connection type

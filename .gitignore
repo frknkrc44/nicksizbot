@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 .vscode/
 .idea/
+kat_config.py
 
 # C extensions
 *.so
