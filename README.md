@@ -4,10 +4,10 @@
 python-telegram-bot kütüphanesi kullanılarak yapılmış basit bir Türkçe telegram botu
 
 ### Gereksinimler
-* Bir GNU/Linux dağıtımı (tüm işlevler için)
-* Python2 veya Python3
+* GNU/Linux dağıtımı (Fedora,Ubuntu,OpenSUSE,ArchLinux,Debian)
+* Python 3.7.X (Python 3.7.4 ile test edildi.)
 * python-telegram-bot kütüphanesi (bunu pip ile kurabilirsiniz)
-* GNU/Linux dağıtımları için hesaplama işleminin çalışması için bc kurun
+* Hesap makinası işlevi için "bc" -> http://phodd.net/gnu-bc/
 
 Benimle [kişisel Telegram hesabımdan](https://t.me/unigorn) iletişime geçebilirsiniz
 
@@ -15,9 +15,9 @@ Benimle [kişisel Telegram hesabımdan](https://t.me/unigorn) iletişime geçebi
 A basic Turkish telegram bot using python-telegram-bot
 
 ### Requirements
-* A GNU/Linux distro (for all functions)
-* Python2 or Python3
+* A GNU/Linux distro (Fedora,Ubuntu,OpenSUSE,ArchLinux,Debian)
+* Python 3.7.X (Tested on Python 3.7.4)
 * python-telegram-bot library (you can install it with pip)
-* For GNU/Linux distros, install bc for calculator
+* For Calculator ability requirement is  "bc" tool -> http://phodd.net/gnu-bc/
 
 You can contact me from [my Telegram account](https://t.me/unigorn)
