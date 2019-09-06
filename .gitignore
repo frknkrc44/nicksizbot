@@ -1,10 +1,12 @@
+# Project based files has to ignore
+kat_config.py
+
 led / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 .vscode/
 .idea/
-kat_config.py
 
 # C extensions
 *.so
