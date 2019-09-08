@@ -11,7 +11,7 @@
 
 * A Linux distro (Fedora,Ubuntu,OpenSUSE,ArchLinux,Debian)
 * Min version of python requirement : Python 3.5+ 
-* python-telegram-bot - [![PyPI version](https://badge.fury.io/py/python-telegram-bot.svg)](https://badge.fury.io/py/python-telegram-bot)
+* python-telegram-bot - [![PyPI version](https://badge.fury.io/py/python-telegram-bot.svg)](https://pypi.org/project/python-telegram-bot/)
 
 
 You can contact me from [my Telegram account](https://t.me/unigorn)
