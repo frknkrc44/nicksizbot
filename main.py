@@ -1,8 +1,5 @@
-import configparser
 import sys
-from time import sleep
 
-import requests
 import telegram
 from telegram import *
 from telegram.ext import *
