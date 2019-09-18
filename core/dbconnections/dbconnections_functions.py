@@ -6,3 +6,4 @@ def kat_sql_detection(sql_name):
     # MariaDB
     # SqLite
     # 
+    pass
