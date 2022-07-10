@@ -53,8 +53,8 @@ langlist = ["az","sq","am","en","ar","hy","af","eu","ba","be","bn",
 "ur","fi","fr","hi","hr","cs","sv","gd","et","eo","jv","ja"]
 
 # Şaplak atma özelliği için gösterilecek mesajlar listesi
-slaplist = [u"{}, {} üzerine tüplü TV fırlattı!", u"{}, {}'ye osmanlı tokadı attı!",
-u"{}, {} üzerine benzin döktü ve ateşe verdi!", u"{}, {} üzerine iPhone3GS fırlattı!",
+slaplist = [u"{}, {} üzerine atom bombası düştü !", u"{}, {}'ye osmanlı tokadı attı!",
+u"{}, {} üzerine benzin döktü ve yarragini yaladi!", u"{}, {} üzerine iPhone3GS fırlattı!",
 u"{}, {}'nin RTX 2080Ti'sini kırdı!",u"{}, {}'nin kalbini kırdı!", 
 u"{}, {} üzerine kahve döktü!", u"{}, {}'nin yüzüne pasta fırlattı!",
 u"{}, {} için aldığı hediyeyi parçaladı!"]
