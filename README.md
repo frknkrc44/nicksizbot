@@ -9,7 +9,7 @@ python-telegram-bot kütüphanesi kullanılarak yapılmış basit bir Türkçe t
 * python-telegram-bot kütüphanesi (bunu pip ile kurabilirsiniz)
 * GNU/Linux dağıtımları için hesaplama işleminin çalışması için bc kurun
 
-Benimle [kişisel Telegram hesabımdan](https://t.me/unigorn) iletişime geçebilirsiniz
+Benimle [kişisel Telegram hesabımdan](https://t.me/KaldirimMuhendisi) iletişime geçebilirsiniz
 
 ## English
 A basic Turkish telegram bot using python-telegram-bot
@@ -20,4 +20,4 @@ A basic Turkish telegram bot using python-telegram-bot
 * python-telegram-bot library (you can install it with pip)
 * For GNU/Linux distros, install bc for calculator
 
-You can contact me from [my Telegram account](https://t.me/unigorn)
+You can contact me from [my Telegram account](https://t.me/KaldirimMuhendisi)
